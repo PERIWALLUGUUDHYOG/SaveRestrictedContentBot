@@ -8,7 +8,7 @@
         "bot"
     ],
     "repository": "https://github.com/8769ANURAG/SaveRestrictedContentBot",
-    "website": "",
+    "website": "https://github.com/8769ANURAG/SaveRestrictedContentBot",
     "success_url": "https://t.me/sources_cods",
     "env": {
         "API_HASH": {
