@@ -6,7 +6,7 @@ from telethon import events, Button
 
 from ethon.mystarts import start_srb
     
-st = "Send me Link of any message to clone it here, For private channel message, send invite link first.\n\n**SUPPORT:** @sources_cods\n**DEV:** @Am_RoBots"
+S = "Send me Link of any message to clone it here, For private channel message, send invite link first.\n\n**SUPPORT:** @sources_cods\n**DEV:** @Am_RoBots"
 
 @Drone.on(events.callbackquery.CallbackQuery(data="set"))
 async def sett(event):    
